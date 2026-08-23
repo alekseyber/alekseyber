@@ -8,6 +8,9 @@ TypeScript · Node.js · React · VS Code API · OpenAI-совместимые A
 
 ## Проекты
 
-- [vscode-llm-assistant](https://github.com/alekseyber/vscode-llm-assistant)
-- [ai-collection-server](https://github.com/alekseyber/ai-collection-server)
-- [technical-skill-training](https://github.com/alekseyber/technical-skill-training)
+- **2020** — [nuxt-online-store](https://github.com/alekseyber/nuxt-online-store) · Vue-витрина (SSR)
+- **2020–21** — [vue-admin-online-store](https://github.com/alekseyber/vue-admin-online-store) · Vue-админка
+- **2020** — [react-online-store](https://github.com/alekseyber/react-online-store) · React/TS-миграция
+- **2022** — [technical-skill-training](https://github.com/alekseyber/technical-skill-training) · full-stack квиз
+- **2025** — [ai-collection-server](https://github.com/alekseyber/ai-collection-server) · AI Telegram-бот
+- **2026** — [vscode-llm-assistant](https://github.com/alekseyber/vscode-llm-assistant) · VS Code-расширение
