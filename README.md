@@ -17,3 +17,4 @@ TypeScript · Node.js · React · VS Code API · OpenAI-совместимые A
 ## Связь
 
 - Telegram: [@aleksey_v_b](https://t.me/aleksey_v_b)
+- Email: [alex-b-job@mail.ru](mailto:alex-b-job@mail.ru)
