@@ -13,3 +13,7 @@ TypeScript · Node.js · React · VS Code API · OpenAI-совместимые A
 - **2020** — [react-online-store](https://github.com/alekseyber/react-online-store) · миграция на React/TS
 - **2025** — [ai-collection-server](https://github.com/alekseyber/ai-collection-server) · AI Telegram-бот
 - **2026** — [vscode-llm-assistant](https://github.com/alekseyber/vscode-llm-assistant) · VS Code-расширение
+
+## Связь
+
+- Telegram: [@aleksey_v_b](https://t.me/aleksey_v_b)
