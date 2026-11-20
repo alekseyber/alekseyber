@@ -4,7 +4,7 @@
 
 ## Стек
 
-TypeScript · Node.js · React · VS Code API · OpenAI-совместимые API · Docker · PostgreSQL (pgvector) · Redis · GitHub Actions · PHP 7 · MySQL (2014–2021)
+TypeScript · React · Node.js · PostgreSQL · Docker · PHP / MySQL (2014–2021)
 
 ## Проекты
 
