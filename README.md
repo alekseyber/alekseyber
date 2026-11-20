@@ -9,9 +9,9 @@ TypeScript · React · Node.js · PostgreSQL · Docker · PHP / MySQL (2014–20
 ## Проекты
 
 - **2014–2021** — [legacy-php-ecommerce](https://github.com/alekseyber/legacy-php-ecommerce) · интернет-магазин на PHP целиком: движок, админка, витрина, интеграции; архив с рабочим стендом
-- **2020** — [nuxt-online-store](https://github.com/alekseyber/nuxt-online-store) · интернет-магазин (Nuxt/Vue, SSR)
-- **2020–21** — [vue-admin-online-store](https://github.com/alekseyber/vue-admin-online-store) · админ-панель магазина (Vue 2, Vuetify)
-- **2020** — [react-online-store](https://github.com/alekseyber/react-online-store) · миграция на React/TS
+- **2020** — [nuxt-online-store](https://github.com/alekseyber/nuxt-online-store) · прототип витрины (Nuxt 2, SSR) перед переписыванием на React
+- **2020–2021** — [vue-admin-online-store](https://github.com/alekseyber/vue-admin-online-store) · админ-панель магазина (Vue 2, Vuetify) к React-версии
+- **2020–2022** — [react-online-store](https://github.com/alekseyber/react-online-store) · магазин на React/TS, работал в продакшене
 - **2025** — [ai-collection-server](https://github.com/alekseyber/ai-collection-server) · AI Telegram-бот
 - **2026** — [vscode-llm-assistant](https://github.com/alekseyber/vscode-llm-assistant) · VS Code-расширение
 
