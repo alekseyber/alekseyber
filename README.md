@@ -2,6 +2,8 @@
 
 📍 [alexfdev.ru](https://alexfdev.ru/)
 
+Разборы своих проектов и замеры моделей — [alexfdev.ru/blog](https://alexfdev.ru/blog/).
+
 ## Стек
 
 TypeScript · React · Node.js · PostgreSQL · Docker · PHP / MySQL (2014–2021)
