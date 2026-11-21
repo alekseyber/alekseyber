@@ -2,7 +2,7 @@
 
 📍 [alexfdev.ru](https://alexfdev.ru/)
 
-Разборы своих проектов и замеры моделей — [alexfdev.ru/blog](https://alexfdev.ru/blog/).
+Разборы своих личных проектов и замеры моделей — [alexfdev.ru/blog](https://alexfdev.ru/blog/).
 
 ## Стек
 
